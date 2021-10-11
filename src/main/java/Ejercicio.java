@@ -6,6 +6,7 @@ public class Ejercicio {
 
         System.out.println("Introduce tu edad:");
         int age=sc.nextInt();
+        sc.nextLine();
 
         System.out.println("Introduce tu nivel de estudios:");
         String studies= sc.nextLine();
